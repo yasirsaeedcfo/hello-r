@@ -13,3 +13,4 @@ print(first)
 print(Version)
 last="saima"
 print(last)
+print("meri mano meri mano")
